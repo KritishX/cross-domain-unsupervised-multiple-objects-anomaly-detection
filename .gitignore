@@ -1,0 +1,15 @@
+# Data, generated features, and trained artifacts
+dataset/
+embeddings/
+memory_bank/
+outputs/
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# macOS Finder metadata
+._*
+.DS_Store
